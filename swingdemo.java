@@ -6,11 +6,7 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-
-
 public class swingdemo implements ActionListener {
-
-
 
     JFrame f;
 
@@ -89,3 +85,5 @@ public class swingdemo implements ActionListener {
     }
 
 }
+
+
